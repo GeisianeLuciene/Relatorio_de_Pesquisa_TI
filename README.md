@@ -13,7 +13,7 @@ Analisar vagas de TI coletadas em plataformas como **LinkedIn, Glassdoor, Catho 
 - `https://drive.google.com/file/d/1A-LlXJvi-Vmaw9IU2hchqyv_LDQJ9UCT/view?usp=sharing` → Relatório completo com tabelas, gráficos e análise.
 
 ## 🔗 Relatório Completo
-📄 [Clique aqui para acessar o relatório](./https://drive.google.com/file/d/1A-LlXJvi-Vmaw9IU2hchqyv_LDQJ9UCT/view?usp=sharing)
+📄 [Clique aqui para acessar o relatório](https://drive.google.com/file/d/1A-LlXJvi-Vmaw9IU2hchqyv_LDQJ9UCT/view?usp=sharing)
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 - Pesquisa de vagas em plataformas de emprego.
