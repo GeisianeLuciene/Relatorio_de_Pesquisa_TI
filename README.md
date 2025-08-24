@@ -22,9 +22,9 @@ Analisar vagas de TI coletadas em plataformas como **LinkedIn, Glassdoor, Catho 
 - GitHub para versionamento e compartilhamento.
 
 ## ✍️ Autor
-Relatório desenvolvido como parte da disciplina **Experiência Prática II**.  
+Relatório desenvolvido como parte da disciplina **Designer Profissional**.  
 Aluno(a): *[Geisiane Luciene]*  
-Curso: *Ciência da Computação / Sistemas de Informação / ou área correspondente*  
+Curso: *Ciência da Computação*  
 Data: Agosto/2025  
 
 ---
